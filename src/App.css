@@ -1,0 +1,7 @@
+.body {
+  height: 600px;
+  text-align: center;
+  align-items: center;
+  background-image: url("./images/back.webp");
+  background-size: cover;
+}
